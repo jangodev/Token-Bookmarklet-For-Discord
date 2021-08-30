@@ -15,6 +15,7 @@ Make sure to make a webhook before activating. Where it says "Web hook URL," pas
 
 # How to log into someones account with token:
 
+copy the code from login.js and paste it into the console (CTRL + SHIFT + J on chrome) and paste in the token where it says "token_here". You're good to go! Please use this responsibly. I made this a little obvious so others can tell this is a token logger. 
 
 ![image](https://user-images.githubusercontent.com/86420004/131270479-5915cb5b-aab6-494e-b1cc-16efbf24430c.png)
 
