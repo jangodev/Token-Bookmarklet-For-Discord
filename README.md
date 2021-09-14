@@ -24,5 +24,4 @@ copy the code from login.js and paste it into the console (CTRL + SHIFT + J on c
 
 ![image](https://user-images.githubusercontent.com/86420004/131270500-d04199ab-28ae-4a7e-b023-7c94e737b9ff.png)
 
-![image](https://user-images.githubusercontent.com/86420004/131270624-093c9ce7-5a6a-475b-adc4-6eb91fe6f698.png)
 
